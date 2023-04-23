@@ -1,0 +1,30 @@
+body {
+    background-color: bisque;
+}
+
+h1 {
+    color: cornflowerblue;
+    font-family: 'Rubik Pixels', cursive, sans-serif;
+}
+
+.container {
+    width: 500px;
+}
+/* Resize images */
+.container img {
+    width: 100%;
+    height: auto;
+}
+
+img {
+    width: 100px;
+    margin: auto;
+}
+
+.big_txt {
+    font-size: 2rem;
+}
+
+a:hover {
+    color: red;
+}
